@@ -17,3 +17,4 @@ serviceAccountKey.json
 backend/uploads/
 backend/test_uploads/
 backend/extracted_*.xlsx
+backend/credentials.json
