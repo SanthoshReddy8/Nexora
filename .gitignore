@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Local secrets
+.env
+credentials.json
+token.json
+serviceAccountKey.json
+
+# Uploaded and generated files
+backend/uploads/
+backend/test_uploads/
+backend/extracted_*.xlsx
