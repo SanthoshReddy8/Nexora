@@ -32,7 +32,6 @@ This project automates various business processes using AI, reducing manual effo
 
 🔹 **Technologies Used**: Google Generative AI (Gemini)
 
-### **Demo:** [https://drive.google.com/file/d/1xdt2lxc7zBpmzTT6IJNNuidsLG9IyWjU/view?usp=drive_link]
 
 
 ## Workflow
@@ -97,7 +96,7 @@ This diagram illustrates the flow of data and processes within the Axiom project
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/manvitha984/Axiom.git
+    git clone https://github.com/SanthoshReddy8/Nexora.git
     cd your-repo
     ```
 
